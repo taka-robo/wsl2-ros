@@ -2,6 +2,11 @@
 wsl2でROSを使うセットアップ
 
 ###
+powershellで
+``` powershell
+wsl --set-default-version 2
+```
+wslを起動
 ``` bash
 # Xサーバー通信用のアプリ群を入れる
 sudo apt update
