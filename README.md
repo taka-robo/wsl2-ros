@@ -1,7 +1,7 @@
 # wsl2-ros
 wsl2でROSを使うセットアップ
 
-###
+### xサーバーを使ってGUIを使えるようにする
 powershellで
 ``` powershell
 wsl --set-default-version 2
@@ -20,3 +20,6 @@ source ~/.bashrc
 ```
 vcxsrvのインストール
 https://sourceforge.net/projects/vcxsrv/
+
+### ROSのインストール
+[公式サイト](http://wiki.ros.org/noetic/Installation/Ubuntu)にそって
