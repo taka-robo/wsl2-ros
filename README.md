@@ -18,6 +18,8 @@ echo 'export LIBGL_ALWAYS_INDIRECT=""' >> ~/.bashrc
 echo 'export GAZEBO_IP=127.0.0.1' >> ~/.bashrc
 source ~/.bashrc 
 ```
+
+https://github.com/microsoft/WSL/issues/4285#issuecomment-721090843
 vcxsrvのインストール
 https://sourceforge.net/projects/vcxsrv/
 
